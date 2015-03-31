@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Bring the Symfony2 dump() function to Drupal.
+ */
+
+include_once 'vendor/autoload.php';
